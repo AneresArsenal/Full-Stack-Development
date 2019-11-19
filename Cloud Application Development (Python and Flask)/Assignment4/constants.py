@@ -1,2 +1,0 @@
-boats = "boats"
-loads = "loads"
