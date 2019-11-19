@@ -1,19 +1,17 @@
 # Full-Stack-Development
-
-
-# Full-Stack-Development
 Full-Stack-Development implemented with Pug, JavaScript, NodeJS and SQL
 
 ## Built With
 
-* [Dropwizard](http://www.dropwizard.io/1.0.2/docs/) - The web framework used
-* [Maven](https://maven.apache.org/) - Dependency Management
-* [ROME](https://rometools.github.io/rome/) - Used to generate RSS Feeds
+* [NodeJS](https://nodejs.org/en/) - The server runtime environment used
+* [MariaDB](https://mariadb.com/kb/en/library/sql-statements/) - Database management system used
+* [PUG](https://pugjs.org/api/getting-started.html) - HTML Renderer
+* [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
 
 ## Versioning
 
 We use GitHub for version controls. 
-The original repository where the project is developed can be found at https://github.com/Jedeu/cs-340-final
+The original [repository] (https://github.com/Jedeu/cs-340-final) will note all the version controls that were created during development phase.
 
 ## Authors
 
