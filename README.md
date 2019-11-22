@@ -8,7 +8,7 @@ Full-Stack-Development implemented with Pug, JavaScript, NodeJS and SQL
 * [PUG](https://pugjs.org/api/getting-started.html) - HTML Renderer
 * [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
 
-## Versioning
+## Project Description
 
 Front end website that is integrated to a MariaDB using NodeJS. Website allows users to create, edit and delete data stored in the database. Database contains data on football player transfer activities which includes their transfer fee, market value, nationality and clubs they are playing at.
 
