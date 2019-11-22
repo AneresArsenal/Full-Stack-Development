@@ -14,7 +14,7 @@ Front end website that is integrated to a MariaDB using NodeJS. Website allows u
 
 ## Versioning
 
-We use GitHub for version controls. 
+We used GitHub for version controls. 
 The original [repository] (https://github.com/Jedeu/cs-340-final) will note all the version controls that were created during development phase.
 
 ## Authors
